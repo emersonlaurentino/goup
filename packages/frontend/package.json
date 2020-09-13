@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "author": "Emerson Laurentino <emersonlaurentino@hotmail.com>",
+  "homepage": "https://github.com/emersonlaurentino/goup#readme",
+  "license": "MIT",
+  "main": "lib/frontend.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersonlaurentino/goup.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/emersonlaurentino/goup/issues"
+  }
+}

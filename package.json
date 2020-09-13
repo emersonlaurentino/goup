@@ -1,0 +1,7 @@
+{
+  "name": "goup",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.17.0"
+  }
+}
